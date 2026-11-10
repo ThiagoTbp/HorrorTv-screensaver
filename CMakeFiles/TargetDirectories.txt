@@ -1,0 +1,14 @@
+G:/XSRC/HorrorTv/CMakeFiles/edit_cache.dir
+G:/XSRC/HorrorTv/CMakeFiles/rebuild_cache.dir
+G:/XSRC/HorrorTv/scrnsave/CMakeFiles/scrnsave.dir
+G:/XSRC/HorrorTv/scrnsave/CMakeFiles/edit_cache.dir
+G:/XSRC/HorrorTv/scrnsave/CMakeFiles/rebuild_cache.dir
+G:/XSRC/HorrorTv/common/CMakeFiles/common.dir
+G:/XSRC/HorrorTv/common/CMakeFiles/edit_cache.dir
+G:/XSRC/HorrorTv/common/CMakeFiles/rebuild_cache.dir
+G:/XSRC/HorrorTv/screenhack/CMakeFiles/screenhack.dir
+G:/XSRC/HorrorTv/screenhack/CMakeFiles/edit_cache.dir
+G:/XSRC/HorrorTv/screenhack/CMakeFiles/rebuild_cache.dir
+G:/XSRC/HorrorTv/horrortv/CMakeFiles/horrortv.dir
+G:/XSRC/HorrorTv/horrortv/CMakeFiles/edit_cache.dir
+G:/XSRC/HorrorTv/horrortv/CMakeFiles/rebuild_cache.dir

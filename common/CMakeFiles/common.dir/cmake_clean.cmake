@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../build/libcommon.a"
+  "../build/libcommon.pdb"
+  "CMakeFiles/common.dir/colors.c.obj"
+  "CMakeFiles/common.dir/colors.c.obj.d"
+  "CMakeFiles/common.dir/erase.c.obj"
+  "CMakeFiles/common.dir/erase.c.obj.d"
+  "CMakeFiles/common.dir/font-ximage.c.obj"
+  "CMakeFiles/common.dir/font-ximage.c.obj.d"
+  "CMakeFiles/common.dir/grabclient.c.obj"
+  "CMakeFiles/common.dir/grabclient.c.obj.d"
+  "CMakeFiles/common.dir/hsv.c.obj"
+  "CMakeFiles/common.dir/hsv.c.obj.d"
+  "CMakeFiles/common.dir/logo.c.obj"
+  "CMakeFiles/common.dir/logo.c.obj.d"
+  "CMakeFiles/common.dir/minixpm.c.obj"
+  "CMakeFiles/common.dir/minixpm.c.obj.d"
+  "CMakeFiles/common.dir/mzc2mini.cpp.obj"
+  "CMakeFiles/common.dir/mzc2mini.cpp.obj.d"
+  "CMakeFiles/common.dir/pixmap.c.obj"
+  "CMakeFiles/common.dir/pixmap.c.obj.d"
+  "CMakeFiles/common.dir/spline.c.obj"
+  "CMakeFiles/common.dir/spline.c.obj.d"
+  "CMakeFiles/common.dir/textclient.cpp.obj"
+  "CMakeFiles/common.dir/textclient.cpp.obj.d"
+  "CMakeFiles/common.dir/xcolor.c.obj"
+  "CMakeFiles/common.dir/xcolor.c.obj.d"
+  "CMakeFiles/common.dir/ximage.c.obj"
+  "CMakeFiles/common.dir/ximage.c.obj.d"
+  "CMakeFiles/common.dir/xpm-pixmap.c.obj"
+  "CMakeFiles/common.dir/xpm-pixmap.c.obj.d"
+  "CMakeFiles/common.dir/xpm-ximage.c.obj"
+  "CMakeFiles/common.dir/xpm-ximage.c.obj.d"
+  "CMakeFiles/common.dir/xws2win.c.obj"
+  "CMakeFiles/common.dir/xws2win.c.obj.d"
+  "CMakeFiles/common.dir/yarandom.c.obj"
+  "CMakeFiles/common.dir/yarandom.c.obj.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/common.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

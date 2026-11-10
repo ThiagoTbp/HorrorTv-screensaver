@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"G:/XSRC/HorrorTv/cmake_install.cmake",
+		"G:/XSRC/HorrorTv/scrnsave/cmake_install.cmake",
+		"G:/XSRC/HorrorTv/common/cmake_install.cmake",
+		"G:/XSRC/HorrorTv/screenhack/cmake_install.cmake",
+		"G:/XSRC/HorrorTv/horrortv/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
